@@ -1,0 +1,4 @@
+tabulate
+numpy
+pandas
+todoist-python
